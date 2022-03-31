@@ -1,0 +1,37 @@
+{
+  "rules": {
+  },
+  "aspects": [
+    {
+      "name": "root",
+      "type": "list",
+      "list_items": {
+        "name": "root",
+        "type": "composite",
+        "components": [
+          {
+            "name": "value",
+            "type": "<any>"
+          },
+          {
+            "name": "text",
+            "type": "str"
+          },
+          {
+            "name": "children",
+            "type": "<any>"
+          }
+        ]
+      }
+    },
+    {
+      "name": "levels",
+      "type": "list",
+      "list_items": {
+        "name": "levelnames",
+        "type": "str"
+      }
+    }
+  ],
+  "slug": "value_tree"
+}

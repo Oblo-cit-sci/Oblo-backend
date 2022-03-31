@@ -1,0 +1,99 @@
+{
+  "slug": "cc_licenses",
+  "template": {
+    "slug": "value_list"
+  },
+  "values": {
+    "list": [
+      {
+        "value": "CC0",
+        "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "orig_icon": "https://i.creativecommons.org/p/zero/1.0/88x31.png",
+        "icon": "cc-zero.svg"
+      },
+      {
+        "value": "CC-BY",
+        "url": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "orig_icon": "https://i.creativecommons.org/l/by/4.0/88x31.png",
+        "icon": "by.svg"
+      },
+      {
+        "value": "CC-BY-SA",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+        "orig_icon": "https://i.creativecommons.org/l/by-sa/4.0/88x31.png",
+        "icon": "by-sa.svg"
+      },
+      {
+        "value": "CC-BY-ND",
+        "url": "https://creativecommons.org/licenses/by-nd/4.0/legalcode",
+        "orig_icon": "https://licensebuttons.net/l/by-nd/4.0/88x31.png",
+        "icon": "by-nd.svg"
+      },
+      {
+        "value": "CC-BY-NC",
+        "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+        "orig_icon": "https://licensebuttons.net/l/by-nc/3.0/88x31.png",
+        "icon": "by-nc.svg"
+      },
+      {
+        "value": "CC-BY-NC-SA",
+        "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+        "orig_icon": "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png",
+        "icon": "by-nc-sa.svg"
+      },
+      {
+        "value": "CC-BY-NC-ND",
+        "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode",
+        "orig_icon": "https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png",
+        "icon": "by-nc-nd.svg"
+      },
+      {
+        "value": "C",
+        "orig_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/All_rights_reserved_white_logo.svg/240px-All_rights_reserved_white_logo.svg.png",
+        "icon": "c.svg"
+      }
+    ]
+  },
+  "aspects": [
+    {
+      "name": "licenses",
+      "type": "list",
+      "list_items": {
+        "name": "cc-license",
+        "type": "composite",
+        "components": [
+          {
+            "name": "value",
+            "type": "str",
+            "attr": {
+              "view_component": "url"
+            }
+          },
+          {
+            "name": "orig_icon",
+            "type": "str",
+            "attr": {
+              "view_component": "url"
+            }
+          },
+          {
+            "name": "icon",
+            "type": "str",
+            "attr": {
+              "view_component": "url"
+            }
+          },
+          {
+            "name": "rel",
+            "type": "str",
+            "attr": {
+              "view_component": "url"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+
+

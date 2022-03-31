@@ -1,0 +1,25 @@
+{
+  "rules": {
+  },
+  "aspects": [
+    {
+      "name": "list",
+      "type": "list",
+      "list_items": {
+        "name": "list_item",
+        "type": "composite",
+        "components": [
+          {
+            "name": "value",
+            "type": "<any>"
+          },
+          {
+            "name": "text",
+            "type": "str"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "value_list"
+}

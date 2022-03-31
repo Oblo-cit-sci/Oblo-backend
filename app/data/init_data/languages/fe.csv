@@ -1,0 +1,342 @@
+index_,en,es,ca
+page.index.about_a,About The Project,Sobre el proyecto,Sobre el projecte
+page.index.privacy_a,Privacy Policy,Politica de pivacidad,Política de privacitat
+page.index.btn_login,@:w.login,@:w.login,@:w.login
+page.index.btn_register,@:w.register,@:w.register,@:w.register
+page.domain.create_entry_dialog_title,Create an new entry,Crear una nueva contribución,Crear una nova contribució/jo posaria entrada
+page.about.0.h2,Funding,Financiación,Finançament
+page.about.0.p.0,This application is funded primarily by the LICCI and LICCION projects of the European Research Council (Grant Agreement Nr. FP7-771056-LICCI and ERC-2019-PoC-899209).,Esta aplicación está financiada fundamentalmente por los proyectos LICCI e ICCION del European Research Council (Nr. FP7-771056-LICCI y ERC-2019-PoC-899209).,Aquesta aplicació està finançada fonamentalment pels projectes LICCI i ICCION de l'European Research Council (Nr. FP7-771056-LICCI i ERC-2019-PoC-899.209).
+page.about.0.p.1,"This application has also received funding from the European Union’s Horizon 2020 research and innovation programme. The JRC, or as the case may be the European Commission, shall not be held liable for any direct or indirect, incidental, consequential or other damages, including but not limited to the loss of data, loss of profits, or any other financial loss arising from the use of this application, or inability to use it, even if the JRC is notified of the possibility of such damages.","Esta aplicación también recibió fondos del programa de investigación e innovación Horizon 2020 de la Unión Europea. El JRC, o según sea el caso, la Comisión Europea, no será responsable de ningún daño directo o indirecto, incidental, consecuente u otro daño, que incluye, entre otros, la pérdida de datos, la pérdida de beneficios o cualquier otra pérdida financiera derivada del uso de esta aplicación, o la imposibilidad de usarla, incluso si se notifica al JRC sobre la posibilidad de tales daños.","Aquesta aplicació també va rebre fons del programa de recerca i innovació Horizon 2020 de la Unió Europea. El JRC, o segons sigui el cas, la Comissió Europea, no serà responsable de cap dany directe o indirecte, incidental, conseqüent o un altre mal, que inclou, entre d'altres, la pèrdua de dades, la pèrdua de beneficis o qualsevol altra pèrdua financera derivada de l'ús d'aquesta aplicació, o la impossibilitat d'utilitzar-la, fins i tot si es notifica al JRC sobre la possibilitat d'aquests danys."
+page.about.1.h2,Terms of use,Condiciones de uso,Condicions d'ús
+page.about.1.p.0,Registration in {{platform_title}} implies the express free informed consent of the user or its carer/guardian to participate and transfer their personal data and traditional knowledge to the platform under the following conditions:,Registerarse en {{platform_title}} implica que el usuario o su tutor acepta de manera libre e informada la transferencia de sus datos a la plataforma bajo las siguientes condiciones:,Registerar-se a {{platform_title}} implica que l'usuari o el seu tutor accepta de manera lliure i informada la transferència de les seves dades a la plataforma sota les següents condicions:
+page.about.1.p.1,"- All information in the platform will be anonymized and only used for research and advocacy purposes, without it being transferred to third parties.",- Toda la información en la plataforma puede ser usada con fines científicos tras ser anonimizada.,- Tota la informació de la plataforma pot ser utilitzada amb finalitat científica després de ser anonimitzada.
+page.about.1.p.2,- All users have the right to withdraw from the project and delete their profile data and entries from the platform at any time they wish.,- Todos los usuarios tienen derecho a retirarse del proyecto y eliminar su perfil y contribuciones en la plataforma en cualquier momento y sin que esto conlleve consecuencias negativas,- Tots els usuaris tenen dret a retirar-se de el projecte i eliminar el seu perfil i contribucions de la plataforma en qualsevol moment i sense que això comporti conseqüències negatives.
+page.about.1.p.3,"- The personal profile data voluntarily provided by the user will be treated confidentially and only used for research purposes, without it being public.","- Los datos personales que introduzca el usuario en su perfil de manera voluntaria serán tratados con confidencialidad y sólo serán utilizados para fines científicos, sin que estos sean públicos.","- Les dades personals que introdueixi l'usuari en el seu perfil de manera voluntària seran tractades amb confidencialitat i només seran utilitzades per a finalitats científiques, sense que aquestes siguin públiques."
+page.about.1.p.4,- The traditional ecological knowledge voluntarily provided by the user will be shared under the privacy and license options the user selects,- El conocimiento ecológico tradicional que el usuario contribuya de manera voluntaria será compartido bajo las opciones de licencia y privacidad que el usuario elija,- El coneixement ecològic tradicional que l'usuari aporti de manera voluntària serà compartit sota les opcions de llicència i privacitat que l'usuari triï
+page.about.1.p.5,"- All users have the right to present claims to the Catalan Data Protection Authority and to reach out to the UAB data protection service (proteccio.dades@uab.cat). For more information about your rights as a research subject, you can also contact the Ethics Commission of the Autonomous University of Barcelona at ceeah@uab.cat","- Todos los usuarios tienen el derecho de presentar reclamaciones a la Autoridad Catalana de Protección de Datos y dirigirse al servicio de protección de datos de la UAB (proteccio.dades@uab.cat). Para más información sobre tus derechos como sujeto de investigación, también puedes contactar con la Comisión de Ética de la Universitat Autònoma de Barcelona en ceeah@uab.cat","- Tots els usuaris tenen el dret de presentar reclamacions a l'Autoritat Catalana de Protecció de Dades i dirigir-se a el servei de protecció de dades de la UAB (proteccio.dades@uab.cat). Per a més informació sobre els teus drets com a subjecte d'investigació, també pots contactar amb la Comissió d'Ètica de la Universitat Autònoma de Barcelona a ceeah@uab.cat"
+page.about.1.p.6,- Users agree that the data which they provide will be transferred to and stored within the borders of the EU.,- Los usuarios aceptan que Los datos que proporcionen serán transferidos y almacenados dentro de las fronteras de la UE.,- Els usuaris accepten que les dades que proporcionin seran transferides i emmagatzemades dins de les fronteres de la UE.
+page.about.2.h2,Privacy Policy,Condiciones de uso,Condicions d'ús
+page.about.3.h3,{{platform_title}} platform,Plataforma {{platform_title}},Plataforma {{platform_title}}
+page.about.3.p.0,{{platform_title}} only collects data the user is freely and willingly providing. We do not use cookies nor do we include any 3rd party cookies. We only store the data that you directly provide in your public user profile or in the entries you create or contribute to. Users agree that the data which they provide will be transferred to and stored within the borders of the EU.,"{{platform_title}} sólo guarda datos que el usuario cede libre y voluntariamente. No usamos cookies ni incluimos ninguna cookie de terceros. Sólo guardamos datos que el usuario introduce directamente en su perfil público o en las contribuciones que crea y a las que contribuye.
+Los usuarios aceptan que los datos que proporcionen serán transferidos y almacenados dentro de las fronteras de la UE.",{{platform_title}} només guarda dades que l'usuari cedeix lliure i voluntàriament. No fem servir cookies ni incloem cap galeta/cookie HOMOGENEITZAR de tercers. Només guardem dades que l'usuari introdueix directament en el seu perfil públic o en les contribucions que crea i a les que contribueix. Els usuaris accepten que les dades que proporcionin seran transferides i emmagatzemades dins de les fronteres de la UE.
+page.about.4.h3,Mapbox API,API Mapbox,API Mapbox
+page.about.4.html,"<p>We are making use of the mapbox API for map display. APIs and Mobile SDKs: We automatically collect certain technical information whenever requests are made to our APIs, including (a) IP address, (b) device and browser information, (c) operating system, (d) the content of the request, (e) the date and time of the request, and (f) limited location and usage data. We delete IP addresses after 30 days. In addition, when a mobile application uses our SDKs to access our APIs, it may send us certain limited location and usage data along with an ephemeral ID. We delete this ephemeral ID within 24 hours and do not associate it or the unprocessed mobile location data with any personally identifying information, including names, permanent IDs, email addresses, IP addresses, or phone numbers. We also collect randomly-generated IDs for the limited purpose of analyzing the use of our APIs, including the number of active users. We will delete the randomly generated IDs and the content of requests made to our APIs after 36 months. See more details here: <a href='https://www.mapbox.com/legal/privacy' target='_blank'>Mapbox Privacy policy</a><p>","<p> Estamos utilizando la API de mapbox para mostrar mapas. API y SDK móviles: recopilamos automáticamente cierta información técnica cada vez que se realizan solicitudes a nuestras API, incluida (a) la dirección IP, (b) la información del dispositivo y el navegador, (c) el sistema operativo, (d) el contenido de la solicitud, (e) la fecha y hora de la solicitud, y (f) la ubicación limitada y los datos de uso. Eliminamos las direcciones IP después de 30 días. Además, cuando una aplicación móvil utiliza nuestros SDK para acceder a nuestras API, puede enviarnos algunos datos limitados sobre la ubicación y actividad, junto con una identificación efímera. Eliminamos esta identificación efímera en un plazo de 24 horas y no la asociamos ni con la información de ubicación móvil sin procesar ni con ninguna información de identificación personal, incluidos nombres, identificaciones permanentes, direcciones de correo electrónico, direcciones IP o números de teléfono. También recopilamos ID generados aleatoriamente con el propósito limitado de analizar el uso de nuestras API, incluido el número de usuarios activos. Eliminaremos los ID generados aleatoriamente y el contenido de las solicitudes realizadas a nuestras API después de 36 meses. Vea más detalles aquí: <a href='https://www.mapbox.com/legal/privacy' target='_blank'> Política de privacidad de Mapbox </a> <p>","<P> Estem utilitzant l'API de mapbox per mostrar mapes. API i SDK mòbils: recopilem automàticament certa informació tècnica cada vegada que es realitzen sol·licituds a les nostres API, inclosa (a) l'adreça IP, (b) la informació del dispositiu i el navegador, (c) el sistema operatiu, (d) el contingut de la sol·licitud, (i) la data i hora de la sol·licitud, i (f) la ubicació limitada i les dades d'ús. Eliminem les adreces IP després de 30 dies. A més, quan una aplicació mòbil utilitza els nostres SDK per accedir a les nostres API, pot enviar algunes dades limitades sobre la ubicació i activitat, juntament amb una identificació efímera. Eliminem aquesta identificació efímera en un termini de 24 hores i no l'associem ni amb la informació d'ubicació mòbil sense processar ni amb cap informació d'identificació personal, inclosos noms, identificacions permanents, adreces de correu electrònic, adreces IP o números de telèfon. També recopilem ID generats aleatòriament amb el propòsit limitat d'analitzar l'ús de les nostres API, inclòs el nombre d'usuaris actius. Eliminarem els ID generats aleatòriament i el contingut de les sol·licituds realitzades a les nostres API després de 36 mesos. Vegi més detalls aquí: <a href='https://www.mapbox.com/legal/privacy' target='_blank'> Política de privacitat de Mapbox </a> <p>"
+page.register.h1,Registration,Registro,Registre
+page.register.btn_register,@:w.register,@:w.register,@:w.register
+page.register.i_agree_with,I agree with the,Estoy de acuerdo con,Estic d'acord amb
+page.register.terms_of_use,terms of use,Condiciones de uso,Condicions d'ús
+page.registration_done.h1,Check your email!,Revisa tu correo electrónico!,Revisa el teu correu electrònic!
+page.registration_done.p1,We send you an email with a verification link. Check your spam folder if it is not visible.,Te hemos enviado un correo con un enlace de verificación. Mira en tu carpeta de SPAM si no lo encuentras,T'hem enviat un correu amb un enllaç de verificació. Mira a la teva carpeta de SPAM si no el trobes
+page.registration_done.p2,If you haven't received the verification link request a new email!,"Si no has recibido el enlace de verificación, pide que te enviemos un nuevo email!","Si no has rebut l'enllaç de verificació, demana que t'enviem un nou correu!"
+page.translate.back,back to setup,volver a ajustes,tornar a ajustos
+page.translate.only_undone,show only missing or outdated messages,mostrar sólo mensajes pendientes o antiguos,mostrar només missatges pendents o antics
+page.translate.submit_required,You have to submit your changes before changing the page,página,pàgina
+page.translate.messages,no message | 1 message | {n} messages,no mesaje	| 1 mesaje | {n} mesajes,no missatge | 1 missatge | {n} missatges
+page.login.h1,@.capitalize:w.login,@.capitalize:w.login,@.capitalize:w.login
+page.login.btn_login,@:w.login,@:w.login,@:w.login
+page.login.btn_resend_mail,Resend verification email,Reenviar correo electrónico de verificación,Reenviar correu electrònic de verificació
+page.login.btn_forgot,Forgot password?,¿Olvidaste la contraseña?,Has oblidat la contrasenya?
+page.login.login_successful,Login successful,Inicio de sesión correcto,Inici de sessió correcte
+page.login.not_a_user,Not a user,No es usuario/a,No és usuari/a
+page.login.no_account,No Account yet?,¿Aún no tienes cuenta?,Encara no tens compte?
+page.login.go_here_to_register,Click here to register!,Clica aquí para registrarte!,Clica aquí per registrar-te!
+page.offline_settings.h1,Offline settings,Ajustes fuera de línea,Ajustos fora de línea
+page.offline_settings.no_data,Nothing stored,Nada guardado,Cap cosa guardada
+page.profile.h_public,Public information,Información publica,Informació pública
+page.profile.h_research,Research related information,Información relacionada con la investigación,Informació relacionada amb la investigació
+page.profile.research_info,Answering these questions is optional. The information is only used for research purposes of the creator of {platform_title},Responder estas preguntas es opcional. La información solo se utilizará con los fines de investigación del creador de OpenTEK,Respondre aquestes preguntes és opcional. La informació només s'utilitzarà amb els objectius d'investigació del creador de OpenTEK
+page.profile.h_domain,@.capitalize:w.domain specific questions,Preguntas específicas de @:w.domain,Preguntes específiques de @:w.domain
+page.profile.h_email_password,Email address and password,Dirección de correo electrónico y contraseña,Adreça de correu electrònic i contrasenya
+page.profile.bt_change_email_pwd,Change email and password,Cambiar la dirección de correo electrónico y la contraseña,Canviar l'adreça de correu electrònic i la contrasenya
+page.profile.btn_change_password,Change password,Cambiar contraseña,Canviar contrasenya
+page.profile.btn_settings,Settings,Ajustes,Ajustos
+page.profile.btn_edit_profile,Edit profile,Editar perfil,Edita perfil
+page.profile.btn_cancel,@:w.cancel,@:w.cancel,@:w.cancel
+page.profile.btn_save,@:w.save,@:w.save,@:w.save
+page.profile.btn_delete,Delete account,Eliminar cuenta,Elimina el compte
+page.profile.h_entries,Your @:w.entries,Tu @:w.entries,El teu @:w.entries
+page.profile.msgs.email_changed,Email updated,Correo actualizado,Correu actualitzat
+page.profile.msgs.password_changed,Password updated,Contraseña actualizada,Contrasenya actualitzada
+page.actor.h1,@:page.profile.h_public,@:page.profile.h_public,@:page.profile.h_public
+page.actor.h2,@.capitalize:w.entries,@.capitalize:w.entries,@.capitalize:w.entries
+page.actor.deactivated,This user is no longer active,Esta usuaria ya no está activa,Aquesta usuària ja no està activa
+page.actor.admin.edit_user,Edit User,editar usuario,editar usuàri
+page.actor.admin.asp_global_role,Global role,Rol global,Rol global
+page.actor.admin.asp_editor_for_domain,Editor for @:w.domain,Editor de @:w.domain,Editor de @:w.domain
+page.init_password_reset.h1,Password reset,Restablecimiento de contraseña,Restabliment de contrasenya
+page.init_password_reset.btn_send,Send email,Enviar correo,Enviar correu
+page.password_reset.h1,Password reset,Restablecimiento de contraseña,Restabliment de contrasenya
+page.password_reset.btn_send,Set new password,Establecer nueva contraseña,Establir nova
+page.reset_mail_sent.h1,Check your email,Consulta tu correo electrónico,Consulta el teu correu electrònic
+page.reset_mail_sent.p1,We've sent an email to your address. Click the link in the email to reset your password.,Hemos enviado un correo electrónico a tu dirección. Haga clic en el enlace del correo electrónico para restablecer su contraseña.,Hem enviat un correu electrònic a la teva adreça. Feu clic a l'enllaç del correu electrònic per restablir la contrasenya.
+page.reset_mail_sent.p2,"If you don't see the email, check other places it might be, like your junk, spam, social, or other folders.","Si no ve el correo electrónico, revisa otros lugares donde podría estar, como tu correo no deseado, spam, redes sociales u otras carpetas.","Si no veus el correu electrònic, revisa altres llocs on podria estar, com el teu correu no desitjat, spam, xarxes socials o altres carpetes."
+page.reset_mail_sent.a,I didn't receive the email,No recibí el correo electrónico,No he rebut el correu electrònic
+page.settings.h1,Settings,Ajustes,Ajustos
+page.settings.settings_updated,Settings updated,Configuración actualizada,Configuració actualitzada
+page.settings.asp.location_privacy.label,Location privacy,Privacidad de la ubicación,Privacitat de la ubicació
+page.settings.asp.location_privacy.description,Specify the settings for the protection of the exact locations of your entries,Especifica la configuración para la protección de las ubicaciones exactas de sus contribuciones,Especifica els paràmetres per a la protecció de les ubicacions exactes de les seves contribucions DE VEGADES ES PARLA AMB SEGONA PERSONA I ALTRES AMB TERCERA TANT AL CASTELLÀ COM AL CATALÀ UNIFICAR
+page.settings.asp.location_privacy.options.exact_location,Exact location,Localización exacta,Localització exacta
+page.settings.asp.location_privacy.options.randomly_moved,Randomly moved,Movido al azar,Mogut a l'atzar
+page.settings.asp.location_privacy.options.always_ask,Always ask,Preguntar siempre,Preguntar sempre
+page.settings.asp.offline.label,Offline mode,Modo fuera de linea,Mode fora de línia
+page.settings.asp.offline.description,If you have the offline mode activated you can still create entries while being offline,Con el modo fuera de linea puedes crear contribuciones aunque no estés conectado a internet,Amb el perfil fora de línia pots crear ENTRADES? encara que no estiguis connectat a Internet
+page.settings.asp.offline.items.inactive,inactive,inactivo/a,Inactiu/a
+page.settings.asp.offline.items.active,active,activo/a,Actiu/a
+page.settings.fixed_domain.h1,Fixed @:w.domain,Dominio fijado,Domini fixat
+page.settings.fixed_domain.p,You are only seeing the @:w.domain,Solo ves el @:w.domain,Només veus el @:w.domain
+page.settings.fixed_domain.p2,"However there are more domains to explore. Resetting your fixed @:w.domain, will show you a @:w.domain overview on the home page. Click the button to reset the fixed domain.","Sin embargo, hay más @:w.domain para explorar. Al restablecer tu @:w.domain fijo, se te mostrará una descripción general del @:w.domain en la página de inicio. Haz clic en el botón para restablecer el @:w.domain fijo.","No obstant això, hi ha més @:w.domain per explorar. Al restablir la teva @:w.domain fix, se't mostrarà una descripció general de l'@:w.domain a la pàgina d'inici. Fes clic al botó per restablir l'@:w.domain fix."
+page.settings.fixed_domain.btn_reset,Reset fixed @:w.domain,Restablecer @:w.domain fijo,Restablir @:w.domain fix
+page.settings.fixed_domain.fixed_domain_reset,Fixed @:w.domain reset,Reinicia el @:w.domain fijo,Reinicia l'@:w.domain fix
+page.delete_account.h1,Delete your account,Eliminar tu cuenta,Eliminar el teu compte
+page.delete_account.p1,"If you have not posted content publicly, all the private entries that you created without any collaborator and user information will be permanently deleted. If you have posted entries publicly, these entries will continue to be stored and publicly available and we will continue to retain basic user data (you username and public name) so your connection with them is preserved. All private entries without other collaborators will be deleted. Those with collaborators will remain.","Si no has publicado contenido públicamente, todas las contribuciones privadas que creaste sin ningún colaborador ni información de usuario se eliminarán de forma permanente. Si has publicado contribuciones públicamente, estas contribuciones seguirán almacenadas y disponibles públicamente y continuaremos reteniendo datos básicos del usuario (su nombre de usuario y nombre público) para que se conserve su conexión con ellos. Se eliminarán todas las contribuciones privadas sin otros colaboradores. Los que tengan colaboradores se quedarán.","Si no has publicat contingut públicament, totes les contribucions privades que vas crear sense cap col·laborador ni informació d'usuari s'eliminaran de forma permanent. Si has publicat contribucions públicament, aquestes contribucions seguiran emmagatzemades i disponibles públicament i continuarem retenint dades bàsiques de l'usuari (el seu nom d'usuari i nom públic) perquè es conservi la seva connexió amb ells. S'eliminaran totes les contribucions privades sense altres col·laboradors. Les que tinguin col·laboradors es mantindan."
+page.delete_account.h2,The following entries will be deleted,Las siguientes contribuciones seran eliminadas,Les següents contribucions seran eliminades
+page.delete_account.h3,Please provide your credentials to verify your identity,Proporciona tus credenciales para verificar su identidad,Proporciona les teves credencials per verificar la seva identitat
+page.delete_account.btn_delete,Delete account,Eliminar cuenta,Elimina el compte
+asp.username.label,@:w.username,@:w.username,@:w.username
+asp.username.rule_length,@:w.username must have at least 4 characters,@:w.username debe contener al menos 4 caracteres,@:w.username ha de contenir almenys 4 caràcters
+asp.username.rule_pattern,Only lowercase characters are allowed,Solo se permiten caracteres en minúscula,Només es permeten caràcters en minúscula
+asp.user_query.label,Username or email,Nombre de usuario o correo electrónico,Nom d'usuari o correu electrònic
+asp.user_query.rule,Input doesn't seem to be a valid username nor email address,No pareces haber introducido un nombre de usuario ni una dirección de correo electrónico válidos,No semba que hagis introduït un nom d'usuari ni una adreça de correu electrònic vàlids
+asp.language.label,@.capitalize:w.language,@.capitalize:w.language,@.capitalize:w.language
+asp.language.descr,Select a @:w.language,Selecciona un @:w.language,Selecciona una @:w.language
+asp.language.alt_label.ui,User interface,Interfaz de usuario,Interfície d'usuari
+asp.language.alt_label.domain,Forms and entries,Formularios y contribuciones,Formularis i contribucions
+asp.language.alt_descr.ui,Select a @:w.language for the overall user interface,Selecciona un @:w.language para la interfaz de usuario,Seleccioneu un @:w.language per a la interfície d'usuari
+asp.language.alt_descr.domain,Select a @:w.language for all forms and entries,Selecciona un @:w.language para los formularios y contribuciones,Seleccioneu un @:w.language per als formularis i contribucions
+asp.password.label,Password,Contraseña actualizada,Contrasenya actualitzada
+asp.password.rule_length,Password must have at least 8 characters,La contraseña debe tener como mínimo 8 caracteres,La contrasenya ha de tenir com a mínim 8 caràcters
+asp.password.rule_repeat_match,Passwords do not match,Las contraseñas no coinciden,Les contrasenyes no coincideixen
+asp.password.alt_label.repeat,Repeat password,Repite la contraseña,Repeteix la contrasenya
+asp.password.alt_label.current,Current password,Contraseña actual,Contrasenya actual
+asp.password.alt_label.new,New password,Nueva contraseña,Nova contrasenya
+asp.password.alt_label.repeat_new,Repeat new password,Repite la nueva contraseña,Repeteix la nova
+asp.email.label,Email,Correo electrónico,Correu electrònic
+asp.email.rule,Email not valid,Correo electrónico no válido,Correu electrònic no vàlid
+asp.email.new,Email did not change,El correo electrónico no ha cambiado,El correu electrònic no ha canviat
+asp.public_name.label,Public name,Nombre publico,Nom públic
+asp.public_name.rule_length,Your public name must have between 2 and 30 characters,Tu nombre publico debe tener entre 2 y 30 caracteres,El teu nom públic ha de tenir entre 2 i 30 caràcters
+asp.user_description.label,@.capitalize:w.description,@.capitalize:w.description,@.capitalize:w.description
+asp.user_description.descr,Write something about yourself and about your background,Escribe algo sobre tí y sobre tu historia/contexto,Escriu alguna cosa sobre tu i sobre la teva història / context
+asp.privacy.label,Privacy,Privacidad de la ubicación,Privacitat de la ubicació
+asp.privacy.descr,Should this entry be publicly visible?,¿Debería ser públicamente visible esta contribución?,Hauria de ser públicament visible aquesta contribució?
+asp.privacy.alt_label.default,Default privacy,Privacidad predeterminada,Privacitat per defecte
+asp.privacy.alt_descr.default,Choose a default privacy for all your entries,Elige una privacidad predeterminada para todas tus contribuciones,Tria una privacitat per defecte per a totes les teves contribucions
+asp.privacy.options.public.text,Public,Público,Públic
+asp.privacy.options.public.descr,Everyone can see this entry.,Todos pueden ver esta contribución.,Tots poden veure aquesta contribució.
+asp.privacy.options.public.alt_descr.default,Public entries are visible to everyone,Las contribuciones públicas son visibles para todos,Les contribucions públiques són visibles per a tots
+asp.privacy.options.private.text,Private,Privado,Privat
+asp.privacy.options.private.descr,Only you or users you shared the entry with can see it.,Solo tú y los usuarios con los que has compartido la contribución la podrán ver,Només tu i els usuaris amb els que has compartit la contribució la podran veure
+asp.privacy.options.private.alt_descr.default,Private entries are only visible to those you share them with,Las contribuciones privadas solo son visibles para las personas con las que las compartes,Les contribucions privades només són visibles per a les persones amb les que les comparteixes
+asp.license.label,License,Licencia,Llicència
+asp.license.descr,Choose a creative commons license for this entry. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'>Read about the licenses.</a>,Elige una licencia de Creative Commons para esta contribución. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'>Read about the licenses.</a>,Tria una llicència de Creative Commons per aquesta contribució. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'> Read about the licenses. </a>
+asp.license.alt_label.default,Default license,Licencia predeterminada,Llicència per defecte
+asp.license.alt_descr.default,Choose a default creative commons license for your entries. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'>Read about the licenses.</a>,Elige una licencia por defecto de Creative Commons para esta contribución. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'>Read about the licenses.</a>,Tria una llicència per defecte de Creative Commons per aquesta contribució. <a href='https://creativecommons.org/about/cclicenses/' target='_blank'> Read about the licenses. </a>
+asp.entry_roles.label,Collaborators and entry access,Colaboradores y acceso de contribución,Col·laboradors i accés de contribució
+asp.entry_roles.descr,Grant access to other users,Conceder acceso a otros usuarios/usuarias,Concedir accés a altres usuaris / usuàries
+asp.entry_roles.roles.creator.label,Creator,Creador/a,Creador/a
+asp.entry_roles.roles.creator.descr,Creator/owner of this entry,Creadora / propietaria de esta contribución,Creadora / propietària d'aquesta contribució
+asp.entry_roles.roles.collaborator.label,Collaborator,Colaborador/a,Col·laborador/a
+asp.entry_roles.roles.collaborator.descr,"Collaborators can edit this entry as you can (except for changing the privacy, license and roles).","Las colaboradoras pueden editar esta contribución igual que usted (excepto para cambiar la privacidad, licencia y roles).","Les col·laboradores poden editar aquesta contribució igual que vostè (excepte per canviar la privacitat, llicència i rols)."
+asp.entry_roles.roles.shared.label,Visible to,Visible a,Visible a
+asp.entry_roles.roles.shared.descr,The following users can read your entry even if it's private,Los siguientes usuarios pueden leer tu contribución aunque sea privada,Els següents usuaris poden llegir la seva contribució encara que sigui privada
+asp.entry_roles.search.min-msg,select at least {min} user,seleccione al menos {min} usuario(s),Seleccioni almenys {min} usuari (s)
+comp.actor.deactivated,deactivated,desactivado,desactivat
+comp.aspect.optional,optional,opcional,opcional
+comp.actor_index.search,Search a user,Buscar usuario/a,Cerca usuari/a
+comp.actor_index.no_user_found,No user found,Usuario no encontrado,Usuari no trobat
+comp.create_entry_button.create_text,Create entry,Crear entrada,Crear entrada
+comp.decision_dialog.cancel,@.capitalize:w.cancel,@.capitalize:w.cancel,@.capitalize:w.cancel
+comp.decision_dialog.confirm,Confirm,Confirma,Confirma
+comp.domain_card.not_available_in_lang,{domain_name} is not available in {language},{domain_name} no está disponible en {language},{Domain_name} no està disponible en {language}
+comp.domain_menu.fix_label,Stay within {domain_title},Quédate dentro {domain_title},Queda't a {domain_title}
+comp.entry.template_not_in_lang,The entrytype is not available in {language},El tipo de entrada no está disponible en {language},El tipus d'entrada no està disponible en {language}
+comp.entry.rejected,Rejected,Rechazado,Rebutjat
+comp.entry.license,@.capitalize:w.license,@.capitalize:w.license,@.capitalize:w.license
+comp.entry.creator_switch_dialog.cancel_text,Back,Atrás,Enrere
+comp.entry.creator_switch_dialog.title,Creator changed,Creador cambiado,Creador canviat
+comp.entry.creator_switch_dialog.text,This draft was created by {original}. Do you want to change the creator to {user}?,Este borrador fue creado por {original}. Quieres cambiar el creador a {user}?,Aquest esborrany va ser creat per {original}. Vols canviar el creador a {user}?
+comp.entry.language_switch_dialog.cancel_text,@:w.back,@:w.back,@:w.back
+comp.entry.language_switch_dialog.title,@.capitalize:w.language changed,@.capitalize:w.language cambiado,@.capitalize:w.language canviat
+comp.entry.language_switch_dialog.text,This entry was created in {language}. Do you want to change your @:w.language to {language}?,Esta entrada fue creada en {language}. Quieres cambiar el @:w.language a {language}?,Aquesta entrada va ser creada el {language}. Vols canviar l'@:w.language a {language}?
+comp.entrypreview.draft,Draft,Borrador,Esborrany
+comp.entrypreview.requries_review,@.capitalize:w.review_required,@.capitalize:w.review_required,@.capitalize:w.review_required
+comp.entrypreview.created,created,creado,creat
+comp.entrypreview.outdated,Created from an outdated version. Some values might change. Download the entry before updating is recommended,Creado a partir de una versión obsoleta. Algunos valores pueden cambiar. Se te recomienda descargar la entrada antes de actualizar,Creat a partir d'una versió obsoleta. Alguns valors poden canviar. Se't recomana descarregar l'entrada abans d'actualitzar
+comp.entrypreview.view,@:w.view,@:w.view,@:w.view
+comp.entrypreview.edit,@:w.edit,@:w.edit,@:w.edit
+comp.entrypreview.update,@:w.update,actualizar,actualitzar PETRA EN ALGUNS CASO HI HA COSES EN MINÚSCULA NO SÉ SI VOLEU POSAR TOT EN MAJÚSCULA. VULL DIR AL COMENÇAMENT DE LA FRASE O PARAULA
+comp.entrypreview.review,review,revisión,revisió
+comp.entry_actions.cancel_draft,Creation canceled,Creación cancelada,Creació cancel·lada
+comp.entry_actions.submit,@:w.submit,enviar,enviar
+comp.entry_actions.saved,Entry saved,Contribución guardada,Contribució guardada
+comp.entry_actions.saved_text,Your entry is saved in the browser until you submit or cancel the creation.,Tu contribución se ha guardado en el navegador hasta que la envies o canceles,La teva contribució s'ha guardat en el navegador fins que l' enviïs o cancel·lis
+comp.entry_actions.submitted,Entry submitted,Contribución enviada,Contribució enviada
+comp.entry_actions.updated,Entry updated,Contribución actualizada,Contribució actualitzada
+comp.entry_actions.delete_entry,Entry deleted,Contribución eliminada,Contribució eliminada
+comp.entry_actions.download,Download JSON,Descaragr JSON,Descarrregar JSON
+comp.entry_actions.dialogs.cancel.title,Dismiss draft,Descartar borrador,Descarta esborrany
+comp.entry_actions.dialogs.cancel.text,Are you sure you want to dismiss this draft?,¿Estas seguro de descartar este borrador?,Estàs segura de descartar aquest esborrany?
+comp.entry_actions.dialogs.cancel.cancel_text,keep on editing,sigue editando,segueix editant
+comp.entry_actions.dialogs.cancel.confirm_text,dismiss this draft,descartar este borrador,descartar aquest esborrany
+comp.entry_actions.dialogs.delete.title,Delete entry,Eliminar contribución,Eliminar contribució
+comp.entry_actions.dialogs.delete.text,Are you sure you want to delete this entry?,¿Estas seguro de eliminar esta contribución?,Estàs segura d'eliminar aquesta contribució?
+comp.entry_actions.dialogs.delete.confirm_text,delete,eliminar,eliminar
+comp.entry_actions.review.accept,accept,aceptar,acceptar
+comp.entry_actions.review.reject,reject,rechazar,rebutjar
+comp.entry_action_buttons.btn_save.save,@:w.save,@:w.save,@:w.save
+comp.entry_action_buttons.btn_save.save_draft,save draft,guardar borrador,guardar esborrany
+comp.entry_action_buttons.not_logged_in.title,You are not logged in,No te has identificado,No t'has identificat
+comp.entry_action_buttons.not_logged_in.text,You can submit observations but they need to be reviewed before they get published. In addition to that their privacy is automatically set to public and their license is set to (CC0) - No Rights reserved/public domain. ,"Puedes enviar observaciones pero seran revisadas antes de que se publiquen. Además de eso, tu privacidad se establece automáticamente en pública y tu licencia se establece en (CC0) - Sin derechos reservados / dominio público.","Pots enviar observacions però seran revisades abans que es publiquin. A més d'això, la teva privacitat s'estableix automàticament en pública i la teva llicència s'estableix en (CC0) - Sense drets reservats / domini públic."
+comp.entry_action_buttons.not_logged_in.cc_ref_text,Read more about CC0.,Leer más sobre CC0.,Llegir més sobre CC0.
+comp.entries_download_dialog.dialog_header,Download entries,Descargar entradas,Descarregar entrades
+comp.entries_download_dialog.template_aspect_label,Select which entry type to download,,
+comp.entries_download_dialog.data_aspect.label,Only metadata / Complete data,,
+comp.entries_download_dialog.data_aspect.items.0,Metadata,Metadatos,Metadades
+comp.entries_download_dialog.data_aspect.items.1,Complete entries,,
+comp.entry_validation.h1,Validation,Validación,Validació
+comp.entry_validation.has_missing,Missing or incomplete aspects:,Aspectos ausentes o incompletos:,Aspectes absents o incomplets:
+comp.entry_validation.has_missing_t,"Incomplete entries cannot be submitted. Please, add the missing information or save your entry as a draft.","No se pueden enviar contribuciones incompletas. Por favor, añade la información que falta o guarde su contribución como borrador.","No es poden enviar contribucions incompletes. Si us plau, afegeix la informació que falta o guarda la teva contribució com a esborrany. HO HE POSAT EN SEGONA PERSONA."
+comp.entry_validation.ok,All values in this entry are ok.,Todos los valores de esta contribución están bien.,Tots els valors d'aquesta contribució estan bé.
+comp.entry_validation.msgs.missing,{aspect_label} missing,{aspect_label} desaparecido,{aspect_label} desaparegut
+comp.entry_validation.msgs.list_not_enough,{aspect_label} requires more {item_name},{aspect_label} requiere más {item_name},{aspect_label} requereix més {item_name}
+comp.entry_validation.msgs.composite_incomplete,  is not complete: missing components: {invalid_components_msgs},No está completo: faltan componentes: {invalid_components_msgs},No està complet: falten components: {invalid_components_msgs}
+comp.entry_validation.msgs.listitem_incomplete,{aspect_label} has at least one incomplete item: {invalid_item_msgs},{aspect_label} tiene al menos un elemento incompleto: {invalid_item_msgs},{aspect_label} té almenys un element incomplet: {invalid_item_msgs}
+comp.external_account_asp.not_given,No account given,No has dado una cuenta,No has donat un compte
+comp.external_account_asp.not_valid,Invalid id,id inválido,id invàlid
+comp.filters.tag.label,@:w.tag,@:w.tag,@:w.tag
+comp.filters.tag.description,Start selecting the general tag type. Then select multiple specific tags that you would like to include in your search. Any entry that includes at least one of the selected tags will be included in the result.,Comienza por seleccionar la etiqueta general. Luego selecciona múltiples etiquetas específicas que quieras incluir en tu búsqueda. Cualquier contribución que incluya al menos una de las etiquetas seleccionadas se mostrará en el resultado.,Comença per seleccionar l'etiqueta general. Després selecciona múltiples etiquetes específiques que vulguis incloure en la teva cerca. Qualsevol contribució que inclogui almenys una de les etiquetes seleccionades es mostrarà en el resultat.
+comp.filterlist.appliead_filters,Applied filters,Filtros aplicados,Filtres aplicats
+comp.filterlist.btn_add_filter,add filter,agregar filtro,afegir filtre
+comp.global_role.admin,Admin,Admin,Admin
+comp.global_role.editor,Editor,Editor/a,Editor a
+comp.global_role.user,User,Usuario/a,Usuari/a
+comp.global_role.visitor,Visitor,Visitante,Visitant
+comp.image_asp.no_images,No images,Sin imágenes,Sense imatges
+comp.image_asp.cover_image,cover image,imagen de portada,Imatge de portada
+comp.image_asp.not_found,Image could not be loaded,No se pudo cargar la imagen,No s'ha pogut carregar la imatge
+comp.image_asp.not_found_draft,Image has been removed,La imagen ha sido eliminada,La imatge ha estat eliminada
+comp.image_asp.add_image,@:w.add_item,@:w.add_item,@:w.add_item
+comp.language_select.label,@.capitalize:w.language,@.capitalize:w.language,@.capitalize:w.language
+comp.language_select.change_not_possible,You cannot change the @:w.language on this page.,No puedes cambiar el idioma de esta página,No pots canviar l'idioma d'aquesta pàgina
+comp.language_select.language_changed,@.capitalize:w.language changed to {language_name},Idioma cambiado a {language_name},Llenguatge canviat a {language_name}
+comp.language_select.domain_language_changed,@.capitalize:w.language for entries changed to {language_name},Idioma de las entradas cambiado a {language_name},Idioma de les entrades canviat a {language_name}
+comp.legend.legend,Legend,Leyenda,Llegenda
+comp.list_asp.add,@:w.add_item,@:w.add_item,@:w.add_item
+comp.list_asp.actions.delete_item,delete {item_name},eliminar {item_name},eliminar {item_name}
+comp.list_asp.actions.move_down,move down,mover abajo,moure avall
+comp.list_asp.actions.move_up,move up,mover arriba,moure amunt
+comp.location_asp.descr,Search for a place or click on the map to set the location,Busca un lugar o haga clic en el mapa para establecer la ubicación,Busca un lloc o fes clic al mapa per establir la ubicació
+comp.location_asp.no_loc,No location,Sin ubicación,Sense ubicació
+comp.location_asp.offline,You cannot set the location while beeing offline,No puedes establecer la ubicación si estás fuera de línea,No pots establir la ubicació si estàs fora de línia
+comp.location_asp.option_region,The location's administrative unit (region).,Unidad administrativa (región) de la ubicación.,Unitat administrativa (regió) de la ubicació.
+comp.location_asp.show entries,Show my entries,Mostrar mis entradas,Mostra les meves entrades
+comp.location_asp.public_loc.base,Public location,Ubicación publica,Ubicació pública
+comp.location_asp.public_loc.change_default_setting,Change your default settings for your public location:,Camba tus ajustes por defecto para tu ubicación pública,Canvia la teva configuració per defecte per a la teva ubicació pública
+comp.location_asp.public_loc.change,change public location,Cambia tu ubicación pública,Canvia la teva ubicació pública
+comp.location_asp.public_loc.options.rnd,"The exact location is not visible, but a randomly moved location (max.50km) (yellow marker).","La ubicación exacta no es visible, en cambio se verá una ubicación movida aleatoriamente (máximo 50 km, marcador amarillo).","La ubicació exacta no és visible, en canvi es veurà una ubicació moguda aleatòriament (màxim 50 km, marcador groc)."
+comp.location_asp.public_loc.options.exact,The exact location will be visible.,La ubicación exacta será visible,La ubicació exacta serà visible
+comp.location_asp.public_loc.options.region,The location's administrative unit (region) will be visible (yellow marker).,La unidad administrativa de la ubicación (región) será visible (marcador amarillo).,La unitat administrativa de la ubicació (regió) serà visible (marcador groc).
+comp.map_wrapper.locations,@:w.n_locations,@:w.n_locations,@:w.n_locations
+comp.map_wrapper.several_countries,Several countries,Varios países,Diversos països
+comp.map_wrapper.layer_asp.label,Visible layers,Capas visibles,Capes visibles
+comp.menu.home,Home,Inicio,Inici
+comp.menu.profile,Profile,Perfil,Perfil
+comp.menu.map,Map,Mapa,Mapa
+comp.menu.login,@.capitalize:w.login,@.capitalize:w.login,@.capitalize:w.login
+comp.menu.logout,Logout,Cerrar sesión,Tancar sessió
+comp.menu.register,@.capitalize:w.register,@.capitalize:w.register,@.capitalize:w.register
+comp.menu.users,Users,Usuarios,Usuaris
+comp.menu.translate,Translate,Traducir,Traduir
+comp.menu.admin,Admin,Admin,Admin
+comp.menu.user_guide,User guide,Guia de usuario,Guia d'usuari/a
+comp.menu.about,About,Acerca de,Sobre
+comp.menu.tests,Test,Prueba,Prova
+comp.menu.offline_settings,Offline Settings,Ajustes fuera de línea,Ajustaments fora de línia
+comp.menucontainer.tab_main,Main,Principal,Principal
+comp.menucontainer.tab_domain,Entries,Entradas,Entrades
+comp.message_translation.index,index,índice,índex
+comp.min_max_indicator.min,min: {number},min: {number},min: {number}
+comp.min_max_indicator.max,max: {number},max: {number},max: {number}
+comp.min_max_indicator.required,Required: {number},Requerido: {number},Requerit: {number}
+comp.multiselect_asp.min_rule,not enough items selected,no se han seleccionado suficientes elementos,no s'han seleccionat prou elements
+comp.multiselect_asp.max_rule,too many items selected,demasiados elementos selecionados,massa elements seleccionats
+comp.notification_banner.complete_profile,Complete your Profile,Completa tu perfil,Completa el teu perfil
+comp.notification_banner.complete_domain_aspects,Answer some {domain_name} related questions,Responde algunas preguntas relacionadas con {domain_name},Respon a unes preguntes relacionades amb {domain_name}
+comp.oauth_login.h,Sign in with...,Entra con...,Entra amb ...
+comp.oauth_login.DEPR_sign_in_with,Sign in with {service},Entra con {service},Entra amb {service}
+comp.previewlist.num_entries,@:w.n_entries,@:w.n_entries,@:w.n_entries
+comp.previewlist.filter_change_hint,Try changing the language or entry type filter,Intenta cambiar el idioma o los filtros,Proba a canviar l'idioma o els filtres
+comp.privacy_notification.h,Your Privacy,Tu privacidad,La teva privacitat
+comp.privacy_notification.p,"We only use functional cookies for security but no 3rd party cookies. We only store the data that you directly provide in your user profile or in the entries you create or contribute to. <a href=""/about#privacy"">Read our privacy policy for more information.</a>","No utilizamos cookies ni incluimos cookies de terceros. Solo almacenamos los datos que tu proporcionas directamente en tu perfil de usuario o en las entradas que creas o en que contribuyes. <a href=""/about#privacy""> Lea nuestra política de privacidad para obtener más información. </a>","No utilitzem cookies ni incloem galetes de tercers. Només emmagatzemem les dades que proporciones directament al teu perfil d'usuari o en les entrades que crees o en les que contribueixes. <a href=""/about#privacy""""> Llegiu la nostra política de privacitat per obtenir més informació. </a>"""
+comp.privacy_notification.btn,Thank you,Gracias,Gràcies
+comp.search.txt_field_label,@.capitalize:w.search,@.capitalize:w.search,@.capitalize:w.search
+comp.search.min_chars_rule,type 4 characters to trigger search,Escribe 4 caracteres para activar la búsqueda,Escriu 4 caràcters per activar la recerca
+comp.search.search_filter,Search & Filter,Buscar y filtrar,Cercar i filtrar
+comp.select_asp.descr,@.capitalize:w.description,@.capitalize:w.description,@.capitalize:w.description
+comp.select_asp.no_options,nothing to select from,no hay nada para seleccionar,no hi ha res per seleccionar
+comp.simple_paginate.page,page,página,pàgina
+comp.simple_paginate.prev,previous,previo,previ
+comp.simple_paginate.next,next,siguiente,següent
+comp.snackbar.something_went_wrong,Something went wrong,Algo salió mal,Quelcom ha fallat
+comp.tagoptions_asp.used_in,Used in: ,utilizado en:,utilitzat en:
+comp.tags.tag,tag | tags,etiqueta | etiquetas,etiqueta | etiquetes
+comp.translate.start,start,inicio,inici
+comp.translate.from_csv,From csv,De csv,De csv
+comp.translate.component_select_asp.label,Part of the platform,Parte de la plataforma,Part de la plataforma
+comp.translate.component_select_asp.description,Which part do you want to translate?,Qué parte quieres traducir?,Quina part vols traduir?
+comp.translate.component_select_asp.options.fe,User interface,Interfaz de usuario,Interfície d'usuari
+comp.translate.component_select_asp.options.be,Server messages,Mensajes del sevidor,Missatges del servidor
+comp.translate.component_select_asp.options.domain,@.capitalize:w.domain info,Información de @:w.domain,Informació de @:w.domain
+comp.translate.component_select_asp.options.entries,Entrytypes and codes,Tipos de entrada y códigos,Tipus d'entrada i codis
+comp.translate.entry_select_asp.label,Entrytype or code,Tipos de entrada o códigos,Tipus d'entrada o codis
+comp.translate.entry_select_asp.description,Select the entrytype or code to translate,Selecciona un tipo de entrada o código para traducir,Selecciona un tipus d'entrada o codi per traduir
+comp.translate.src_lang.label,Source @:w.language,@.capitalize:w.language fuente,@.capitalize:w.language font
+comp.translate.src_lang.descr,From which @:w.language are you translating from?,Desde qué @:w.language estas traduciendo?,Des de quin @:w.language estàs traduint?
+comp.translate.dest_lang.label,Destination @:w.language,@.capitalize:w.language de destino,@.capitalize:w.language destí
+comp.translate.dest_lang.descr,Which language do you want to help completing?,Qué @:w.language quieres ayudar a completar?,Quin @:w.language vols ajudar a completar?
+comp.translate.lang_status.label,@:w.language status,Estatus del @:w.language,Estatus de l'@:w.language
+comp.translate.lang_status.description,Only Active @:w.languages are available to be selected as interface @:w.language,Sólo los @:w.languages activos pueden selecionarse como idioma de interfaz,Només els @:w.languages actius poden selecionar-se com a idioma d'interfície
+comp.translate.lang_status.active,active,activo,actiu
+comp.translate.lang_status.inactive,inactive,inactivo,inactiu
+comp.translate.new.new_lang,Add another @:w.language,Añade otro @:w.language,Afegeix un altre @:w.language
+comp.translate.new.descr,Which @:w.language do you want to add?,Qué @:w.language quieres añadir?,Quin @:w.language vols afegir?
+comp.translate.new.get_in_touch,"If you cannot find the @:w.language get in touch with us, we will make it happen!","Si no encuentras el @:w.language contáctanos, haremos que suceda!","Si no trobes l'@:w.language contacta'ns, farem que hi sigui!"
+comp.translate.new.add,Add @:w.language,Añade @:w.language,Afegeix @:w.language
+comp.treeselect_asp.click_to_select,Click to select,Clica para seleccionar,Fes clic per seleccionar
+comp.treeselect_asp.select_another_value,Select another value,,
+comp.treeleaf_picker.current,Current selection,Selección actual,Selecció actual
+mixin.init.logged_out,You are logged out,Estás desconectado,Estàs desconnectat
+w.login,login,iniciar sesión,iniciar sessió
+w.close,close,cerrar,tanca
+w.register,register,registrarse,registrar-se
+w.search,search,buscar ,buscar
+w.entries,entries,contribuciones ,contribucions
+w.n_entries,No entries | {n} entry | {n} entries,Sin entradas | {n} entrada | {n} entradas,Sense entrades | {N} entrada | {N} entrades
+w.language,language,Idioma,Idioma
+w.languages,languages,Idiomas,Idiomes
+w.languages_,@:w.language | @:w.languages,@:w.language | @:w.languages,@:w.language | @:w.languages
+w.location,Location,Ubicación,Ubicació
+w.n_locations,No locations | {n} location | {n} locations,Sin ubicaciones | {n} ubicación | {n} ubicaciones,Sense ubicacions | {N} ubicació | {N} ubicacions
+w.description,description,descripción,descripció
+w.domain,domain,dominio,domini
+w.domains,domains,dominios,dominis
+w.download,download,descargar,descarregar
+w.update,update,actualizar,actualitzar
+w.delete,delete,eliminar,eliminar
+w.username,Username,Nombre de usuario,Nom d'usuari
+w.back,back,atrás,enrere
+w.license,license,Licencia,llicència
+w.status,status,estatus,estat
+w.submit,submit,enviar,enviar
+w.view,view,ver,veure
+w.edit,edit,editar,editar
+w.done,done,listo,llest
+w.save,save,guardar,guardar
+w.settings,settings,ajustes,ajustos
+w.cancel,cancel,cancelar,cancel·lar
+w.entrytype,Entry type,Tipo de entrada,Tipus d'entrada
+w.tag,Tag,Etiqueta,Etiqueta
+w.add_item,add {item_name},agregar {item_name},afegir {item_name}
+w.review_required,Requires review,Requiere revisión,Requereix revisió
+w._global.asp_location_privacy.labal,Location privacy,Privacidad de la ubicación,Privacitat de la ubicació
+w._global.asp_location_privacy.descr,Specify the settings for the protection of the exact locations of your entries,Especifica la configuración para la protección de las ubicaciones exactas de sus entradas,Especifica la configuració per a la protecció de les ubicacions exactes de les teves entrades

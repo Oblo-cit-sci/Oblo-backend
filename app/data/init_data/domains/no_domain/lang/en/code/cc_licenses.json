@@ -1,0 +1,54 @@
+{
+  "title": "CC licenses",
+  "values": {
+    "list": [
+      {
+        "text": "No Copyright / Public Domain Dedication",
+        "description": "No Rights Reserved. The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.",
+        "rel": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      {
+        "text": "Attribution alone",
+        "description": "This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.",
+        "rel": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "text": "Attribution + ShareAlike",
+        "description": "This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. All new works based on yours will carry the same license, so any derivatives will also allow commercial use.",
+        "rel": "http://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "text": "Attribution + NoDerivs",
+        "description": "This license lets others reuse the work for any purpose, including commercially; however, it cannot be shared with others in adapted form, and credit must be provided to you.",
+        "rel": "http://creativecommons.org/licenses/by-nd/4.0/"
+      },
+      {
+        "text": "Attribution + Noncommercial",
+        "description": "This license lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.",
+        "rel": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "text": "Attribution + NonCommercial + ShareAlike",
+        "description": "This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.",
+        "rel": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      {
+        "text": "Attribution + NonCommercial + NoDerivs",
+        "description": "This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.",
+        "rel": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      {
+        "text": "All rights reserved",
+        "description": "",
+        "rel": "https://en.wikipedia.org/wiki/All_rights_reserved"
+      }
+    ]
+  },
+  "aspects": [
+    {
+      "label": "Licenses"
+    }
+  ]
+}
+
+

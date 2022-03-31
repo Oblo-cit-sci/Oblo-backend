@@ -1,0 +1,25 @@
+{
+  "title": "LICCION",
+  "content": {
+    "description": "",
+    "users": {
+      "profile": {
+        "additional_aspects": [
+        ]
+      }
+    },
+    "about": [
+      {
+        "h1": "About {{platform_title}}"
+      },
+      {
+        "h2": "Goals and Background",
+        "p": [
+          "{{platform_title}} is a free and open source technology to document, visualize and share different types of information. Until now, Oblo has focused on documenting the impacts of climate change perceived by local people.",
+          "{{platform_title}} allows creating online platforms designed as progressive web-apps (PWA), in which users can visualize existing geolocalized data and contribute new data from any device and while in the field.",
+          "If you want to know more about the source code, check out GitLab page <a href='https://gitlab.com/licci' target='_blank'>https://gitlab.com/licci</a>"
+        ]
+      }
+    ]
+  }
+}

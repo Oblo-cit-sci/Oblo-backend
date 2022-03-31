@@ -1,0 +1,90 @@
+version: 1
+formatters:
+  brief:
+    format: '%(name)-40s %(levelname)-8s  %(message)s'
+  precise:
+    format: '%(asctime)s %(name)-40s %(levelname)-8s  %(message)s'
+    datefmt: '%Y-%m-%d %H:%M'
+  day:
+    format: '%(asctime)s %(name)-40s %(levelname)-8s  %(message)s'
+    datefmt: '%H:%M'
+handlers:
+  console:
+    class : logging.StreamHandler
+    formatter: brief
+    stream  : ext://sys.stdout
+  file:
+    class : logging.handlers.RotatingFileHandler
+    formatter: precise
+    level: WARNING
+    filename: logs/warnings.log
+    maxBytes: 20000
+    backupCount: 5
+  days_handler:
+    class : logging.handlers.TimedRotatingFileHandler
+    formatter: day
+    level: ERROR
+    filename: logs/days.log
+    when: "h"
+    interval: 1
+    backupCount: 24
+  crash_handler:
+    class : logging.handlers.RotatingFileHandler
+    formatter: precise
+    level: ERROR
+    filename: logs/crashes.log
+    maxBytes: 20240
+    backupCount: 3
+loggers:
+  app:
+    level: WARNING
+    handlers: [console, file, days_handler]
+    _sub:
+      setup:
+        level: INFO
+        _sub:
+          initial_files_setup: INFO
+          init_data_import: INFO
+          static_fe_dir: INFO
+          init_data:
+            level: INFO
+            _sub:
+              init_message_tables: INFO
+              init_domains: INFO
+              init_entries: INFO
+      db: INFO
+      controller:
+        level: WARNING
+        _sub:
+          basic_ctrl: WARNING
+          entries_ctrl: WARNING
+      crud: WARNING
+      services:
+        level: WARNING
+        _sub:
+          code_entry: WARNING
+          domain_sw: WARNING
+          messages_sw: WARNING
+          entry_sw: WARNING
+          tag_sw: WARNING
+          language: WARNING
+          model_helper_sw: WARNING
+          util:
+            level: WARNING
+            _sub:
+              entries2geojson : WARNING
+      util:
+        level: WARNING
+        _sub:
+          dict_rearrange: WARNING
+          language: WARNING
+          exceptions: WARNING
+      middlewares: WARNING
+      app_logger: DEBUG
+  crashes:
+    level: ERROR
+    handlers: [crash_handler]
+  routes:
+    level: WARNING
+    handlers: [days_handler]
+

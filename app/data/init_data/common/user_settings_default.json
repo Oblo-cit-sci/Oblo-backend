@@ -1,0 +1,8 @@
+{
+  "location_privacy": "always_ask",
+  "fixed_domain": null,
+  "ui_language": "en",
+  "domain_language": "en",
+  "default_license": "CC-BY-NC",
+  "default_privacy": "public"
+}

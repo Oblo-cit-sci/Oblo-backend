@@ -1,0 +1,14 @@
+/app/configs/.test.env
+/app/configs/.dev.env
+/app/configs/.prod.env
+
+/app/data/entries_data/
+/app/data/messages.sqlite
+/app/logs/
+/app/static/
+/app/data/user_data/
+/app/fe/
+/app/data/temp/
+/app/data/temp_files/
+/app/venv/
+/.idea/
