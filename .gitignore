@@ -5,7 +5,9 @@
 /app/data/entries_data/
 /app/data/messages.sqlite
 /app/logs/
-/app/static/
+/app/static/assets/
+/app/static/images/
+/app/static/js/
 /app/data/user_data/
 /app/fe/
 /app/data/temp/
