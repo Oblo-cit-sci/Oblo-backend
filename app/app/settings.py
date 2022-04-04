@@ -79,7 +79,7 @@ logger.info(f"{env} -> {env_file}")
 class Settings(BaseSettings):
     ENV: str
     HOST: AnyHttpUrl = Field(
-        "http://0.0.0.0", description="Host address(including port) of the frontend app"
+        "http://0.0.0.0", description="Host address(eventually including port) of the frontend app"
     )
     POSTGRES_HOST: str = Field(
         ..., description="hostname of the postgres (e.g. localhost)"

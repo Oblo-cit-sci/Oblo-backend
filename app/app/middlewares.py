@@ -127,7 +127,6 @@ def add_middlewares(app: FastAPI):
             request.state.service_worker = sw
             response = await call_next(request)
             request.state.db.close()
-            # logger.warning(f">>>db_session_middleware {request.state._state}")
             return response
         except Exception as err:
             crash_infos = {
